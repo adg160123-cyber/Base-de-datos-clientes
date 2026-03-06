@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Utm_market": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      },
+      "nativeDebugging": true
+    }
+  }
+}
